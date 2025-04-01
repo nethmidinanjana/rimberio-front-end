@@ -19,3 +19,22 @@ Rimberio is a **mobile commerce (M-Commerce)** application designed for a seamle
 - **SQLite** for local storage (for certain data like shopping cart and history).
 - **PayHere** for payment processing.
 
+## 📸 Screenshots
+
+<div style="display: flex;">
+  <img src="ss/1.png" width="250" />&nbsp;&nbsp;&nbsp;
+  <img src="ss/2.png" width="250" />&nbsp;&nbsp;&nbsp;
+  <img src="ss/3.png" width="250" />&nbsp;&nbsp;&nbsp;
+  <img src="ss/4.png" width="250" />
+</div>
+<div style="display: flex;">
+  <img src="ss/5.png" width="250" />&nbsp;&nbsp;&nbsp;
+  <img src="ss/6.png" width="250" />&nbsp;&nbsp;&nbsp;
+  <img src="ss/7.png" width="250" />&nbsp;&nbsp;&nbsp;
+  <img src="ss/8.png" width="250" />
+</div>
+<div style="display: flex;">
+  <img src="ss/9.png" width="250" />&nbsp;&nbsp;&nbsp;
+  <img src="ss/10.png" width="250" />&nbsp;&nbsp;&nbsp;
+  <img src="ss/11.png" width="250" />
+</div>
