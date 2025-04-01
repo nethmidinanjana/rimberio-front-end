@@ -1,0 +1,81 @@
+# === BUILT APPLICATION FILES ===
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# === FILES FOR THE ART/DALVIK VM ===
+*.dex
+
+# === JAVA CLASS FILES ===
+*.class
+
+# === GENERATED FILES ===
+bin/
+gen/
+out/
+
+# === GRADLE FILES ===
+.gradle/
+build/
+
+# === LOCAL CONFIGURATION FILES (SDK Path, etc.) ===
+local.properties
+
+# === LOG FILES ===
+*.log
+
+# === ANDROID STUDIO FILES ===
+.idea/
+*.iml
+.navigation/
+captures/
+.cxx/
+*.keystore
+
+# === EXTERNAL NATIVE BUILD FOLDER ===
+.externalNativeBuild/
+
+# === FIREBASE FILES (🔥 Prevent exposing Firebase credentials) ===
+google-services.json
+firebase.json
+app/google-services.json
+crashlytics.properties
+
+# === SECRET FILES (🔥 Hide sensitive data like API keys) ===
+app/src/main/res/values/secrets.xml
+app/src/main/java/utils/Constants.java
+
+# === FASTLANE ===
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# === OS-SPECIFIC FILES ===
+.DS_Store
+Thumbs.db
+
+# === IGNORE ALL LOCAL CONFIGURATION FILES ===
+*.orig
+*.swp
+*.swo
+
+# === IGNORE GRADLE CACHE ===
+.gradle/
+.idea/
+
+# === IGNORE ANDROID STUDIO SPECIFIC FILES ===
+*.iml
+.idea/
+.navigation/
+captures/
+.cxx/
+*.keystore
+
+# === IGNORE BUILD AND GENERATED FILES ===
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties

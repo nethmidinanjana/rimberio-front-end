@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CustomTextInputStyle" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="shapeAppearance">@style/CustomShapeAppearance</item>
+        <item name="boxBackgroundColor">@color/white</item>
+        <item name="boxStrokeColor">@color/placeholder_border_gray</item>
+        <item name="android:textColorHint">@color/placeholder_text_gray</item>
+    </style>
+    
+    <style name="CustomShapeAppearance" parent="ShapeAppearance.MaterialComponents.SmallComponent">
+        <item name="cornerSize">18dp</item>
+    </style>
+
+    <style name="CustomTextInputBoxStyle" parent="Widget.Material3.TextInputEditText.OutlinedBox">
+        <item name="shapeAppearance">@style/CustomTextInputBoxAppearance</item>
+        <item name="boxBackgroundColor">@color/bg_gray_EBEBEB</item>
+        <item name="boxStrokeColor">@color/border_gray_AAAAAA</item>
+        <item name="android:textColor">@color/placeholder_text_gray</item>
+    </style>
+
+    <style name="CustomTextInputBoxAppearance" parent="ShapeAppearance.MaterialComponents.SmallComponent">
+        <item name="cornerSize">8dp</item>
+    </style>
+
+    <style name="CustomBottomNavIndicator">
+        <item name="android:color">@color/main_brown</item>
+        <item name="android:shape">rectangle</item>
+    </style>
+
+    <style name="HintTextStyle" parent="TextAppearance.MaterialComponents.Caption">
+        <item name="android:textSize">10sp</item>
+    </style>
+
+</resources>

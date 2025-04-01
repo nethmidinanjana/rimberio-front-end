@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">Rimberio</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="rs">Rs.</string>
+
+    <!--  splash screen  -->
+    <string name="splash_screen_intro_text">The food at your doorstep</string>
+    <string name="splash_screen_btn">Get Started</string>
+
+    <!--  signup screen  -->
+    <string name="sign_up_placeholder_username">Enter Your Username</string>
+    <string name="sign_up_placeholder_email">Enter Your Email</string>
+    <string name="sign_up_placeholder_password">Create A Password</string>
+    <string name="sign_up_placeholder_password_retype">Re-type the Password</string>
+    <string name="sign_up_btn_txt">Create New Account</string>
+    <string name="sign_up_link_txt">Already a member?</string>
+    <string name="verification_alert_title_txt">Enter the 4-digit verification code sent to your email.</string>
+    <string name="verify_btn_txt">Verify</string>
+    <string name="send_verification_code_txt">Send Verification Code Again</string>
+    <string name="in">in</string>
+
+    <!--  signin screen  -->
+    <string name="sign_in_placeholder_password">Enter Your Password</string>
+    <string name="sign_in_btn_txt">Sign In</string>
+    <string name="remember_me_btn_txt">Remember Me</string>
+    <string name="forgot_password"><u>Forgot Password?</u></string>
+    <string name="sign_in_link_txt">Don’t have an account yet?</string>
+
+    <!--  branch selection screen  -->
+    <string name="brnch_select_title">One last step</string>
+    <string name="brnch_select_desc">Please select the branch nearest to your location. You can change it later in the profile section if needed.</string>
+    <string name="brnch_select_btn_txt">Select</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!--  home screen  -->
+    <string name="bottom_nav_bar_explore">Explore</string>
+    <string name="bottom_nav_bar_home">Home</string>
+    <string name="bottom_nav_bar_notifications">Notifications</string>
+    <string name="bottom_nav_bar_orders">Orders</string>
+
+    <!--  home fragment  -->
+    <string name="home_search_text">Search your favorites</string>
+    <string name="home_seasonal_specials_text">Seasonal Specials</string>
+    <string name="home_seasonal_flavours_text">Enjoy various flavors</string>
+
+    <!--  notification fragment  -->
+    <string name="notification_title">My Notifications</string>
+
+    <!--  orders fragment  -->
+    <string name="orders_title">My Orders</string>
+    <string name="orders_card_status_placed">Order Placed</string>
+    <string name="orders_card_status_on_delivery">On Delivery</string>
+    <string name="orders_card_status_delivered">Delivered</string>
+    <string name="orders_card_total">Total</string>
+    <string name="orders_card_cancel_order_btn">Cancel Order</string>
+    <string name="orders_card_contact_shop_btn">Contact Shop</string>
+    <string name="orders_card_points">Points</string>
+    <string name="orders_orderId">Order:</string>
+
+    <!--  profile activity  -->
+    <string name="profile_title">My Profile</string>
+    <string name="profile_account_information">Account Information</string>
+    <string name="profile_username">Your username</string>
+    <string name="profile_email">Your email</string>
+    <string name="profile_change_passowrd">Change Password</string>
+    <string name="profile_select_branch">Select Branch</string>
+    <string name="profile_apply_btn">Apply</string>
+    <string name="profile_delivery_details">Delivery Details</string>
+    <string name="profile_home_address">Your home address...</string>
+    <string name="profile_contact_numb">Your contact number....</string>
+    <string name="profile_save_btn">Save</string>
+    <string name="profile_my_points">My Points</string>
+    <string name="profile_total_points">Total Points</string>
+    <string name="profile_payment_history">Payment History</string>
+    <string name="profile_privacy_policy">Privacy policy</string>
+    <string name="profile_help">Help</string>
+    <string name="profile_feedback">Feedback</string>
+    <string name="profile_logout">Logout</string>
+
+    <!--  cart activity  -->
+    <string name="cart_title">My Cart</string>
+    <string name="cart_sub_total">Sub Total</string>
+    <string name="cart_delivery_fee">Delivery Fee</string>
+    <string name="cart_points_earned">Points Earned</string>
+    <string name="cart_proceed_to_checkout">Checkout</string>
+
+    <!--  single product activity  -->
+    <string name="single_view_select_size">Product Size</string>
+    <string name="single_view_price">Price</string>
+    <string name="single_view_select_qty">Select Quantity</string>
+    <string name="single_view_add_tot_cart">Add To Cart</string>
+    <string name="single_view_reviews">Reviews</string>
+
+
+</resources>

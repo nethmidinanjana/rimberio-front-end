@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="main_brown">#3B220E</color>
+    <color name="secondary_brown">#311E0E</color>
+    <color name="main_yellow">#FAB043</color>
+    <color name="placeholder_text_gray">#383737</color>
+    <color name="placeholder_border_gray">#ABABAB</color>
+    <color name="text_gray_5D5D5D">#5D5D5D</color>
+    <color name="text_gray_606060">#606060</color>
+    <color name="border_gray_AAAAAA">#AAAAAA</color>
+    <color name="bg_gray_EBEBEB">#EBEBEB</color>
+    <color name="bg_gray_E3E3E3">#E3E3E3</color>
+    <color name="bg_gray_F3F3F3">#F3F3F3</color>
+    <color name="main_red">#F10D00</color>
+    <color name="secondary_red">#FF4D43</color>
+    <color name="product_card_bg_color">#FFF8E5</color>
+    <color name="product_card_stroke_color">#D9D9D9</color>
+    <color name="fragment_title_color">#575757</color>
+    <color name="notification_time_txt_color">#777777</color>
+    <color name="notification_card_bg_color">#F0F0F0</color>
+    <color name="order_card_bg_color">#F1F1F1</color>
+    <color name="order_card_order_id_textview">#3E3E3E</color>
+    <color name="profile_change_pw_btn_bg">#D7D3D3</color>
+    <color name="profile_change_pw_txt_color">#4B4B4B</color>
+    <color name="profile_my_points_bg">#EEEEEE</color>
+    <color name="profile_logout_btn">#FC3C31</color>
+    <color name="cart_bottom_card_bg">#FBE7CB</color>
+    <color name="gray_C3C3C3">#C3C3C3</color>
+    <color name="sky_blue">#84D8EC</color>
+
+</resources>
