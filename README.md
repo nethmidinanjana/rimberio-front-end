@@ -25,16 +25,15 @@ Rimberio is a **mobile commerce (M-Commerce)** application designed for a seamle
   <img src="ss/1.png" height="250" />&nbsp;&nbsp;&nbsp;
   <img src="ss/2.png" height="250" />&nbsp;&nbsp;&nbsp;
   <img src="ss/3.png" height="250" />&nbsp;&nbsp;&nbsp;
-  <img src="ss/4.png" height="250" />
-</div>
-<div style="display: flex;">
+  <img src="ss/4.png" height="250" />&nbsp;&nbsp;&nbsp;
   <img src="ss/5.png" height="250" />&nbsp;&nbsp;&nbsp;
-  <img src="ss/6.png" height="250" />&nbsp;&nbsp;&nbsp;
-  <img src="ss/7.png" height="250" />&nbsp;&nbsp;&nbsp;
-  <img src="ss/8.png" height="250" />
+  <img src="ss/6.png" height="250" />
 </div>
 <div style="display: flex;">
-  <img src="ss/9.png" height="250" />&nbsp;&nbsp;&nbsp;
+  <img src="ss/7.png" height="250" />&nbsp;&nbsp;&nbsp;
+  <img src="ss/8.png" height="250" />&nbsp;&nbsp;&nbsp;
+    <img src="ss/9.png" height="250" />&nbsp;&nbsp;&nbsp;
   <img src="ss/10.png" height="250" />&nbsp;&nbsp;&nbsp;
   <img src="ss/11.png" height="250" />
 </div>
+
